@@ -1,0 +1,35 @@
+body{
+        font-family: "Anton", sans-serif;
+color: darkseagreen;     
+font-size: medium;
+}
+h1{
+
+font-size: 50px;
+color: rgb(54, 146, 109);
+}
+h2{
+    font-size: 35px;
+}  
+h3{
+font-size: 30px;
+} 
+    
+section{
+  display:flex;
+}
+.half-width{
+ width: 100%;
+ padding-left: 10%;
+}
+.half-width img{
+  width: 70%;
+}
+.link-button{
+  background-image: linear-gradient(orange, tomato);
+  text-decoration: solid;
+  color: black;
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-weight: 500px;
+}
